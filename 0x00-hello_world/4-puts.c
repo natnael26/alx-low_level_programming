@@ -1,7 +1,3 @@
-/*
- * File:4-puts.c
- * Auth:natnael dessalegn
- */
 #include <stdio.h>
 
 /**
